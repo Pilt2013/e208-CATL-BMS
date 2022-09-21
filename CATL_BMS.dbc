@@ -1,0 +1,213 @@
+VERSION ""
+
+
+NS_ : 
+	NS_DESC_
+	CM_
+	BA_DEF_
+	BA_
+	VAL_
+	CAT_DEF_
+	CAT_
+	FILTER
+	BA_DEF_DEF_
+	EV_DATA_
+	ENVVAR_DATA_
+	SGTYPE_
+	SGTYPE_VAL_
+	BA_DEF_SGTYPE_
+	BA_SGTYPE_
+	SIG_TYPE_REF_
+	VAL_TABLE_
+	SIG_GROUP_
+	SIG_VALTYPE_
+	SIGTYPE_VALTYPE_
+	BO_TX_BU_
+	BA_DEF_REL_
+	BA_REL_
+	BA_DEF_DEF_REL_
+	BU_SG_REL_
+	BU_EV_REL_
+	BU_BO_REL_
+	SG_MUL_VAL_
+
+BS_:
+
+BU_: BMS
+
+
+BO_ 293 BMS_VC: 8 Vector__XXX
+
+BO_ 1767 Module_1_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1768 Module_1_Voltage: 8 BMS
+ SG_ Cell_Voltage_2 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_6 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_5 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1769 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1771 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1772 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1773 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1774 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1775 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1776 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1777 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1778 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1779 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1780 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1781 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1782 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1783 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1784 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1785 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1786 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1787 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1788 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1789 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1790 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1791 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1761 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1762 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1747 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+BO_ 1748 Module_Voltage: 8 BMS
+ SG_ Cell_Voltage_4 : 55|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_3 : 39|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_2 : 23|16@0+ (1,0) [0|0] "mV" Vector__XXX
+ SG_ Cell_Voltage_1 : 7|16@0+ (1,0) [0|0] "mV" Vector__XXX
+
+
+
+BA_DEF_  "BusType" STRING ;
+BA_DEF_DEF_  "BusType" "CAN";
+

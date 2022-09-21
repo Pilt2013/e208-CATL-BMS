@@ -1,0 +1,52 @@
+CAN FRAMES:
+0x125
+
+on power up
+
+67 40 00 c4 62 58 20 00
+
+on removing HV measure CON
+
+67 40 00 00 62 58 20 00
+
+5Ain
+
+67 40 01 c4 62 55 20 00
+
+back to zero A
+
+67 40 00 c4 62 58 20 00
+
+pink wire
+0x31b
+float
+21 0a
+
+gnd
+22 12
+
+
+6d1 -> 6e6 = temps
+
+PINOUT:
+
+White -> Pin 7 -> BMS Permenant
+Greent -> Pin 14 -> BMS GND
+
+White  -> Pin 1 -> CAN H
+Yellow -> Pin 2 -> CAN L
+
+
+Green -> Pin 5 -> BMS Wake
+
+Brown -> Pin 4 -> Input?
+Pink -> Pin 11 -> Input
+
+Red -> Pin 12 -> Interlock Loop -> To front HV connector
+Yellow -> Pin 10 -> Into battery pack....
+
+
+
+
+
+
